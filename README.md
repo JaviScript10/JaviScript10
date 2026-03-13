@@ -1,111 +1,139 @@
-# 👋 ¡Hola! Soy Javier Ruiz Arismendi
+# 👋 Hola, soy Javier Ruiz Arismendi
 
-🎓 Estudiante de **tercer año de Ingeniería en Informática**  
-💻 Desarrollador **Full Stack & Mobile**  
-🚀 Más de **3 años aprendiendo y construyendo software**, con enfoque en crecimiento continuo
+🎓 Analista Programador Titulado 
+💻 Desarrollador Full Stack  
+🎓 Estudiante de Ingeniería en Informática (3er año - INACAP)  
+🚀 Apasionado por construir aplicaciones web, APIs y soluciones tecnológicas reales
 
----
-
-## 🧠 Sobre mí
-
-Soy estudiante de Ingeniería en Informática con experiencia en **desarrollo frontend, backend y aplicaciones móviles**.  
-He trabajado desarrollando aplicaciones en **JavaScript**, llevándolas a **Android con Capacitor**, así como también en **desarrollo nativo en Kotlin**.
-
-Me interesa crear soluciones **funcionales, seguras y escalables**, aplicando buenas prácticas, automatización, y metodologías ágiles, siempre con una mentalidad de aprendizaje constante.
+📍 Chile
 
 ---
 
-## 🚀 Áreas de experiencia
+# 🚀 Proyecto destacado
+
+## Generador de Cartas Web
+
+Aplicación web interactiva desarrollada en Python con Streamlit.
+
+🔗 Demo en vivo  
+https://generadordecartas.streamlit.app/
+
+### Características
+
+- Generación dinámica de cartas
+- Interfaz web interactiva
+- Lógica de selección aleatoria
+- Aplicación desplegada en la nube
+
+### Tecnologías
+
+Python • Streamlit • Deploy Web
+
+---
+
+# 🧠 Sobre mí
+
+Soy Analista Programador y estudiante de Ingeniería en Informática con experiencia desarrollando soluciones de software utilizando tecnologías modernas.
+
+Tengo experiencia en:
 
 - Desarrollo **Full Stack**
+- Creación de **APIs**
 - Desarrollo de **aplicaciones móviles**
-- Backend y APIs
-- Bases de datos SQL y NoSQL
-- Automatizaciones
-- Infraestructura TI segura
-- Trabajo con **metodologías ágiles**
+- Bases de datos **SQL y NoSQL**
+- Desarrollo web moderno
+
+Además cuento con **13 años de experiencia en telecomunicaciones**, lo que me ha dado una fuerte capacidad de:
+
+- resolución de problemas
+- diagnóstico técnico
+- pensamiento analítico
+- trabajo bajo presión
+
+Actualmente sigo aprendiendo y construyendo proyectos para mejorar mis habilidades como desarrollador.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+# 🛠️ Tecnologías
 
-### 🔹 Lenguajes
+## Lenguajes
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
-### 🔹 Frontend
+## Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+- Interfaces web
+- Integración con APIs
 
 ---
 
-### 🔹 Backend & APIs
+## Backend
+
 - Node.js
 - Python
+- Django
+- FastAPI
 - APIs REST
-- Arquitectura básica de servicios
 
 ---
 
-### 🔹 Desarrollo móvil 📱
+## Desarrollo móvil
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=ionic&logoColor=white)
 
-- Desarrollo de apps en **JavaScript**
-- Conversión a Android mediante **Capacitor**
-- Desarrollo **Android nativo en Kotlin**
-- Manejo de proyectos híbridos y nativos
+- Apps Android con **Kotlin**
+- Apps híbridas con **JavaScript + Capacitor**
 
 ---
 
-### 🔹 Bases de datos
+## Bases de datos
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **SQL** y **NoSQL**
+- SQL y NoSQL
 - Modelado de datos
-- Consultas y optimización básica
+- Consultas y optimización
 
 ---
 
-### 🔹 Infraestructura y seguridad TI
-- Principios de **infraestructura segura**
-- Buenas prácticas de seguridad
-- Control de accesos
-- Gestión básica de entornos
+# ⚙️ Herramientas
 
----
-
-### 🔹 Metodologías y herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- **Metodologías Ágiles** (Scrum / trabajo iterativo)
-- Control de versiones con Git
-- Trabajo colaborativo
-- Organización y documentación de proyectos
+- Control de versiones
+- Desarrollo colaborativo
+- Metodologías ágiles (Scrum)
 
 ---
 
-## 📚 Actualmente aprendiendo
+# 📚 Actualmente aprendiendo
 
 - Arquitectura de software
-- Desarrollo backend avanzado
-- Optimización de aplicaciones móviles
-- Seguridad y escalabilidad
-- Mejores prácticas en desarrollo profesional
+- Backend avanzado
+- Escalabilidad de aplicaciones
+- Seguridad en aplicaciones web
+- Buenas prácticas de desarrollo profesional
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
 
-📌 GitHub: [@JaviScript10](https://github.com/JaviScript10)
+💼 LinkedIn  
+https://www.linkedin.com/in/javier-ruiz-arismendi-a09bb1294/
+
+💻 GitHub  
+https://github.com/JaviScript10
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Siempre abierto a aprender, mejorar y colaborar en nuevos proyectos.*
+⭐ Siempre abierto a colaborar, aprender y construir proyectos interesantes.
